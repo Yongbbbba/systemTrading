@@ -1,0 +1,7 @@
+ch5Practice.py
+ch6Practice.py
+ch7Practice.py
+number.txt
+practice.py
+stock.py
+__pycache__
